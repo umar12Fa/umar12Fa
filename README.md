@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a mobile application developer having experience in development of E-commerce, Fitness, Podcasts, and Cryptocurrency applications. I've build 30+ mobile applications for both iOS and Android using flutter. Flutter is a cross platform framework that allows us to build hybrid applications with single codebase. I'm a co-founder of Innovations Technology.  I've also provided the assistance to different software houses in the development of application. Besides these I've also have an experience in development of Android (Native) app using Java.
+I'm a mobile application developer having experience in development of E-commerce, Fitness, Podcasts, and Cryptocurrency applications. I've build 30+ mobile applications for both iOS and Android using flutter. Flutter is a cross platform framework that allows us to build hybrid applications with single codebase. I'm a co-founder of Innovations Technology.  I've also provided the assistance to different software houses in the development of application. Besides these I've an experience in development of Android (Native) app using Java.
 
 
 # 💻 Tech Stack:
